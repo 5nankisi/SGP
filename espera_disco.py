@@ -1,4 +1,4 @@
-from queue import *
+from queue_1 import *
 
 
 class Espera_Disco(Queue):
